@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- I am currently persuing MCA from CSJMU,kanpur.
+- 🌱 I’m currently learning programming languages.
 <!--
 **gupta3satakshi/gupta3satakshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
